@@ -1,0 +1,4 @@
+repository "Pocket Golf@blucharge5@cloud"
+  path "/"
+    br "/main"
+    co "/main"
